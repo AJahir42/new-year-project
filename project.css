@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    font-family:'Open Sans', sans-serif; 
+}
+#parent{
+    position: relative;
+}
+.text{
+    position: absolute;
+    margin-left: 845px;
+    margin-top: 216px;
+
+}
+.h1a{
+    font-weight: bolder;
+    font-size: 65px;
+}
+.p1a{
+    margin-top: 24px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+}
+.h4a{
+    margin-top: 29px;
+    
+}
+.btn-contact{
+    width: 160px;
+    height: 67px;
+    background: #F15B22;
+    border-radius: 5px;
+    color: #FFFFFF;
+    border: none;
+}
