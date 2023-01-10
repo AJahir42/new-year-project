@@ -33,3 +33,87 @@
     color: #FFFFFF;
     border: none;
 }
+.first-main{
+    display: flex;
+}
+.main{
+    position: absolute;
+    left: 862px;
+    top: 1178px;
+}
+.image-main{
+position: absolute;
+width: 569px;
+height: 723.3px;
+left: 206px;
+top: 939px;
+}
+.main-header{
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+}
+
+.main-text{
+    margin-top: 30px;
+    font-weight: 400;
+    color: #444343;
+    
+}  
+
+ul{
+    margin-top: 20px;
+    font-weight: 400;
+    color: #444343;
+    list-style-type: none;
+}
+ul li:before {
+    content: '✓';
+    color: green;
+  }
+.plan-container{
+    display: flex;
+    gap: 40px;
+    margin-top: 50px;
+    margin-left: 420px;
+    width: 1141px;
+    
+
+   
+}
+.section-title{
+    text-align: center;
+    margin-top: 900px;
+    font-weight: 700;
+    font-size: 40px;
+}
+.last{
+    background-image:linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%), url('images/watch.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1140px;
+    height: 300px;
+    margin-left: 230px;
+    margin-top: 124px;
+   
+}
+.last-part{
+    position: absolute;
+    margin-top: 59px;
+    margin-left: 64px;
+}
+.last-text{
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+}
+.btn-last{
+    margin-top: 24px;
+    width: 135px;
+    height: 60px;
+    border-radius: 5px;
+    border: none;
+    background: #F15B22;
+    color: #FFFFFF;
+    
+}
