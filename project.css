@@ -88,7 +88,7 @@ ul li:before {
     font-size: 40px;
 }
 .last{
-    background-image:linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%), url('images/watch.png');
+    background-image:linear-gradient(90deg, #d75724 0%, rgba(210, 90, 43, 0) 100%), url('images/watch.png');
     background-repeat: no-repeat;
     background-size: cover;
     width: 1140px;
@@ -116,4 +116,32 @@ ul li:before {
     background: #F15B22;
     color: #FFFFFF;
     
+}
+.footer{
+    display: flex;
+    margin-top: 130px;
+    background-color: #151414;
+    color: #FFFFFF;
+    width: 1600px;
+    height: 577px;
+}
+.footer-text{
+    margin-top: 130px;
+    margin-left: 230px;
+}
+.footer-input{
+    margin-left: 300px;
+    margin-top: 130px;
+}
+.input-email{
+    margin-top: 30px;
+    border-radius: 5px;
+   
+    
+}
+.btn-footer{
+    margin-top: 16px;
+    border-radius: 5px;
+    width: 170.11px;
+    height: 64px;
 }
