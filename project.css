@@ -142,6 +142,24 @@ ul li:before {
 .btn-footer{
     margin-top: 16px;
     border-radius: 5px;
-    width: 170.11px;
-    height: 64px;
+    width: 130px;
+    height: 55px;
+    color: #d75724;
+    font-weight: 600;
+    font-size: 16px;
+}
+.text-para{
+    margin-top: 16px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    font-family: 'Work Sans';
+    font-style: normal;
+}
+.footer-email{
+    margin-top: 24px;
+}
+.footer-image{
+    margin-top: 32px;
+    
 }
